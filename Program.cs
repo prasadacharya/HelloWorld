@@ -8,6 +8,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("From Windows!");
+            String message = Console.ReadLine();
         }
     }
 }
